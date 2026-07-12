@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# FAISS Index
+faiss_index/
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db

@@ -1,0 +1,56 @@
+Tata Nexon — Brochure (Compiled from Tata Motors specifications, ARAI mileage
+certification, and automotive review sources)
+Document Version: 2026-v1.0-real
+
+## Engine and Performance
+The Nexon is offered with a 1.2-litre 3-cylinder turbocharged petrol engine (available
+in petrol and CNG form) producing up to 120 PS and 170 Nm of torque, and a 1.5-litre
+4-cylinder diesel engine producing up to 115 PS and 260 Nm of torque. Transmission
+choices include a 5-speed manual, 6-speed manual, 6-speed AMT, and 7-speed DCT on
+petrol variants; a 6-speed manual or 6-speed AMT on diesel variants; and a 6-speed
+manual on the CNG variant. All versions are front-wheel drive.
+
+## Mileage and Fuel Efficiency
+ARAI-certified mileage for the Nexon ranges from approximately 17 km/l up to 24.08
+km/l depending on variant, engine, and transmission. The petrol variant is rated at
+approximately 23.24 km/l, while the CNG variant returns approximately 17.44 km/kg.
+Diesel variants sit toward the higher end of the range. Fuel tank capacity is
+approximately 44 litres. Real-world mileage will be lower than ARAI figures and
+depends on driving style, traffic, and load.
+
+## Safety
+The Nexon comes with six airbags as standard (driver, front passenger, two curtain,
+and side airbags for driver and front passenger), ABS with EBD, electronic stability
+program (ESP), traction control (ASR), and hill assist control. Other standard safety
+features include ISOFIX child seat anchors, front and rear parking cameras, an
+engine immobilizer, central locking, speed-sensing door lock, child safety lock, and
+an over-speed warning system. The Nexon has received a 5-star Bharat NCAP safety
+rating for both adult and child occupant protection. Higher trims add Level 1 ADAS
+features such as autonomous emergency braking.
+
+## Dimensions
+The Nexon measures 3,995 mm in overall length, 1,804 mm in width, and 1,620 mm in
+height, with a wheelbase of 2,498 mm. Ground clearance is approximately 208 mm. Fuel
+tank capacity is approximately 44 litres.
+
+## Interior and Comfort
+The cabin includes ventilated front seats, a panoramic sunroof that can be operated
+via voice command, cruise control, and a driver-focused instrument cluster.
+Comfort-oriented features across trims include a rear middle three-point seatbelt,
+adequate rear legroom for the segment, and multiple interior color/trim options
+depending on the variant selected. Seating capacity is five.
+
+## Infotainment and Connectivity
+The Nexon offers a touchscreen infotainment system with wireless Android Auto and
+Apple CarPlay support, along with Tata's connected-car technology suite for remote
+vehicle monitoring and control. Premium sound system options are available on higher
+trims. Steering-mounted controls are provided for audio and connectivity functions
+across most variants.
+
+---
+Source: Compiled from Tata Motors' official specifications page
+(cars.tatamotors.com/nexon/ice/specifications.html), ARAI mileage certification as
+reported by automotive review sites (Autocar India, ZigWheels, CarDekho), and Bharat
+NCAP safety rating results. Content has been reorganized and paraphrased into
+brochure-style sections for this RAG pipeline; it is not a verbatim reproduction of
+any single source.

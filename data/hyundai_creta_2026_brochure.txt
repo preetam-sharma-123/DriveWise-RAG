@@ -1,0 +1,69 @@
+Hyundai Creta — Brochure (Compiled from official Hyundai Motor India specifications
+and ARAI-certified mileage data)
+Document Version: 2026-v2.0-real
+
+## Engine and Performance
+The Creta is offered with two 1.5-litre engine options. The 1.5L MPi petrol engine (4
+cylinders, 16 valves, DOHC) produces a maximum power of 84.4 kW (115 PS) at 6,300 rpm
+and maximum torque of 143.8 Nm at 4,500 rpm. The 1.5L U2 CRDi diesel engine produces
+85 kW (116 PS) at 4,000 rpm and 250 Nm of torque between 1,500-2,750 rpm. Transmission
+options include a 6-speed manual (petrol and diesel), a 6-speed IVT automatic (petrol),
+and a 6-speed automatic transmission (diesel). Drive mode select (Eco, Comfort, Sport)
+and traction control modes (snow, sand, mud) are available on higher trims, along with
+paddle shifters on automatic variants. Suspension is McPherson strut with coil spring at
+the front and a coupled torsion beam axle at the rear, with disc brakes on all four wheels.
+
+## Mileage and Fuel Efficiency
+Based on ARAI certification, the 1.5L petrol manual variant returns approximately 17.4
+km/l, while the petrol IVT automatic returns approximately 18.4 km/l. The 1.5L diesel
+manual variant is the most fuel-efficient at approximately 21.8 km/l, with the diesel
+automatic returning approximately 19.1 km/l. Fuel tank capacity is 50 litres across all
+variants. Actual mileage will vary with driving conditions, load, and driving style.
+
+## Safety
+Six airbags (driver, passenger, side, and curtain) are standard across all variants,
+along with ABS with EBD, electronic stability control (ESC), vehicle stability management
+(VSM), and hill start assist control (HAC). Other standard safety features include rear
+disc brakes, rear parking sensors, a tyre pressure monitoring system, speed alert system,
+impact-sensing auto door unlock, speed-sensing auto door lock, front seatbelts with
+pretensioners and height adjustment, driver and passenger seatbelt reminders, an
+emergency stop signal (ESS), ISOFIX child seat anchors, and an immobilizer. Higher trims
+add a rear camera with steering-adaptive parking guidelines, a driver rear-view monitor,
+automatic headlamps, front fog lamps, a rear defogger with timer, and a burglar alarm.
+
+## Dimensions
+The Creta measures 4,300 mm in overall length, 1,790 mm in width, and 1,635 mm in
+height (with roof rails). Wheelbase is 2,610 mm and fuel tank capacity is 50 litres.
+Tyre sizes vary by variant: 205/65 R16 steel or styled wheels on base trims, and
+215/60 R17 alloy wheels (clean silver, black, or diamond-cut depending on trim) on
+higher trims. The spare wheel across all trims is a 205/65 R16 steel wheel.
+
+## Interior and Comfort
+Higher trims feature a voice-enabled smart panoramic sunroof, front-row ventilated
+seats, an 8-way power driver seat, soothing blue ambient lighting, an electric parking
+brake with auto hold, and an auto healthy air purifier. Comfort features across the
+range include a 60:40 split rear seat, height-adjustable driver seat and front headrests,
+front and rear power windows, a front console armrest with storage, and rear AC vents.
+Top trims add a 2-step reclining rear seat, rear centre armrest with cup holders, rear
+seat headrest cushions, and USB chargers front and rear. Interior themes include
+two-tone black & greige, or all-black with contrast inserts on the Knight edition.
+
+## Infotainment and Connectivity
+Infotainment options range from a 20.32 cm (8.0") touchscreen audio system on
+mid-range trims to a 26.03 cm (10.25") HD infotainment display with Bluelink on top
+trims. Wireless Android Auto and Apple CarPlay are available, along with Bluetooth,
+steering-mounted audio and voice-recognition controls, and an Arkamys sound mood
+setting on select trims. Top trims include a Bose premium sound system with 8
+speakers. The Hyundai Bluelink connected-car suite (with a 3-year free subscription)
+offers over-the-air (OTA) map updates, remote engine start/stop, stolen vehicle
+tracking and immobilization, a monthly health report, voice-operated sunroof control,
+remote air purifier activation, a Bluelink-integrated smartwatch app, and Home-to-Car
+control via Amazon Alexa and Google Voice Assistant. A smartphone wireless charger is
+available from mid-range trims upward.
+
+---
+Source: Compiled from Hyundai Motor India's official Creta brochure
+(hyundai.com/content/dam/hyundai/in/en/data/brochure/creta-suv-brochure.pdf) and
+ARAI-certified mileage figures as reported by Hyundai-authorized finance partners.
+Content has been reorganized and paraphrased into brochure-style sections for this
+RAG pipeline; it is not a verbatim reproduction of Hyundai's marketing copy.
