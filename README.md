@@ -30,7 +30,15 @@ Answer + Sources
 Context Relevance: 1.00
 Faithfulness: 1.00
 Answer Correctness: 1.00
+## Screenshots
 
+### Home Page
+
+![Home Page](images/demo1.png)
+
+### Question Answering Demo
+
+![Demo](images/demo2.png)
 ## Tech Stack
 Python, LangChain, Gemini, FAISS, BM25, Streamlit
 
